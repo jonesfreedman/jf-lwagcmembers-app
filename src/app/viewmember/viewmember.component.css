@@ -1,0 +1,11 @@
+.list-group-item.active {
+    background-color: #39414a61;
+    border-color: #dee4ea87;
+}
+.card{
+    width: 18rem; 
+    height: 140px;
+    background-color: #adb5bd2e; 
+    border-color: white; 
+    border-radius: 5%;
+}
